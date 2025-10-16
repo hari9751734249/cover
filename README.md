@@ -123,7 +123,7 @@ Publish the website in the LocalHost.
         <h1 class="main-title" >WEB DESING FRAMEWORKS</h1>
         <h2 class="subtitle"> FUTURE OF WEB DEVELOPMENT</h2>
         <p class="edition" >FOURTH EDITION</p>
-        <p class="Name" >SARATHI M</p>
+        <p class="Name" >HARI V</p>
         <p class="college" >SEC</p>
     </div>
 </body>
